@@ -1,0 +1,9 @@
+int
+double
+if
+else
+while
+char
+for
+float
+String
